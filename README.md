@@ -1,7 +1,7 @@
 #### Hi I'm Garch, 
 ##### Programmer 💻, Scripter ⌨️ and Linux user 🐧!
 - 🌱 I’m currently learning Vuejs and Typescript
-- 🔥 I like to make bash [scripts](https://github.com/HiMyNameIsGarch/dotfiles/.local/bin/)
+- 🔥 I like to make bash [scripts](https://github.com/HiMyNameIsGarch/dotfiles/tree/main/.local/bin)
 - 👯 I’m looking to contribute to more open-source projects
 
 #### Stats:
